@@ -54,9 +54,8 @@ export async function loadAndSwitchLocale(
  * @returns Preferred language
  */
 export function browserPreferredLanguage() {
-  const languages = Object.keys(Languages).map(
-    (x) => [x, Languages[x as keyof typeof Languages]] as const,
-  );
+  return Language.CHINESE_SIMPLIFIED;
+};
 
   // Get the user's system language. Check for exact
   // matches first, otherwise check for partial matches
