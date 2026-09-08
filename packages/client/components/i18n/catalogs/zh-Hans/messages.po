@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-09-29 18:29-0500\n"
-"PO-Revision-Date: 2026-09-08 16:00+0800\n"
-"Last-Translator:darksplice <admin@vmxs.cn>\n"
+"PO-Revision-Date: 2026-09-08 17:30+0800\n"
+"Last-Translator: MoBei <admin@vmxs.cn>\n"
 "Language-Team: Chinese (Simplified Han script) <https://translate.stoat.chat/projects/revolt/revolt-for-web/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
@@ -47,8 +47,8 @@ msgstr "(正在保存更改...)"
 msgid "{0, plural, one {# blocked message} other {# blocked messages}}"
 msgstr "{0} 条被屏蔽的消息"
 
-#~ msgid "{0, plural, one {# Member} other {# Members}}"
-#~ msgstr ""
+msgid "{0, plural, one {# Member} other {# Members}}"
+msgstr "{0} 位成员"
 
 #. placeholder {0}: items().length
 #: components/ui/components/utils/files/FileDropAnywhereCollector.tsx
@@ -152,16 +152,16 @@ msgid "{0}'s roles"
 msgstr "{0} 的角色"
 
 #: src/interface/channels/text/Composition.tsx
-#~ msgid "{h} hours"
-#~ msgstr ""
+msgid "{h} hours"
+msgstr "{h}小时"
 
 #: src/interface/channels/text/Composition.tsx
-#~ msgid "{m} minutes"
-#~ msgstr ""
+msgid "{m} minutes"
+msgstr "{m}分钟"
 
 #: src/interface/channels/text/Composition.tsx
-#~ msgid "{sec} seconds"
-#~ msgstr ""
+msgid "{sec} seconds"
+msgstr "{sec}秒钟"
 
 #: components/ui/components/features/messaging/elements/Reactions.tsx
 msgid "{unknown} reacted"
@@ -241,76 +241,76 @@ msgid "<0>Be careful!</0><1/>This is not the same as the link that was displayed
 msgstr "<0>请小心！</0><1/>此链接与显示的链接不一致："
 
 #: components/modal/modals/BanMember.tsx
-#~ msgid "1 day"
-#~ msgstr ""
+msgid "1 day"
+msgstr "1天"
 
 #: src/interface/channels/text/Composition.tsx
 #: components/modal/modals/BanMember.tsx
 #: components/app/interface/settings/channel/Overview.tsx
-#~ msgid "1 hour"
-#~ msgstr ""
+msgid "1 hour"
+msgstr "1小时"
 
 #: src/interface/channels/text/Composition.tsx
 #: components/app/interface/settings/channel/Overview.tsx
-#~ msgid "1 minute"
-#~ msgstr ""
+msgid "1 minute"
+msgstr "1分钟"
 
 #: components/ui/components/features/messaging/elements/Reactions.tsx
 msgid "1 person reacted"
 msgstr "1 人反应了"
 
 #: src/interface/channels/text/Composition.tsx
-#~ msgid "1 second"
-#~ msgstr ""
+msgid "1 second"
+msgstr "1秒钟"
 
 #: components/app/interface/settings/channel/Overview.tsx
-#~ msgid "10 minutes"
-#~ msgstr ""
+msgid "10 minutes"
+msgstr "10分钟"
 
 #: components/app/interface/settings/channel/Overview.tsx
-#~ msgid "10 seconds"
-#~ msgstr ""
+msgid "10 seconds"
+msgstr "10秒钟"
 
 #: components/app/interface/settings/user/Language.tsx
 msgid "12 hours"
 msgstr "12 小时制"
 
 #: components/app/interface/settings/channel/Overview.tsx
-#~ msgid "2 hours"
-#~ msgstr ""
+msgid "2 hours"
+msgstr "2小时"
 
 #: components/app/interface/settings/user/Language.tsx
 msgid "24 hours"
 msgstr "24 小时制"
 
 #: components/modal/modals/BanMember.tsx
-#~ msgid "3 days"
-#~ msgstr ""
+msgid "3 days"
+msgstr "3天"
 
 #: components/app/interface/settings/channel/Overview.tsx
-#~ msgid "30 minutes"
-#~ msgstr ""
+msgid "30 minutes"
+msgstr "30分钟"
 
 #: components/app/interface/settings/channel/Overview.tsx
-#~ msgid "30 seconds"
-#~ msgstr ""
+msgid "30 seconds"
+msgstr "30秒钟"
 
 #: components/app/interface/settings/channel/Overview.tsx
-#~ msgid "5 minutes"
-#~ msgstr ""
+msgid "5 minutes"
+msgstr "5分钟"
 
 #: components/app/interface/settings/channel/Overview.tsx
-#~ msgid "5 seconds"
-#~ msgstr ""
+msgid "5 seconds"
+msgstr "5秒钟"
 
 #: components/modal/modals/BanMember.tsx
 #: components/app/interface/settings/channel/Overview.tsx
-#~ msgid "6 hours"
-#~ msgstr ""
+msgid "6 hours"
+msgstr "6小时"
 
 #: components/modal/modals/BanMember.tsx
-#~ msgid "7 days"
-#~ msgstr ""
+msgid "7 days"
+msgstr "7天"
 
 #: components/app/interface/settings/channel/permissions/ChannelPermissionsEditor.tsx
 msgid "Able to access channels on this server"
@@ -388,8 +388,8 @@ msgstr "高级"
 
 #: components/app/interface/settings/server/roles/ServerRoleOverview.tsx
 #: components/app/interface/settings/channel/permissions/ChannelPermissionsOverview.tsx
-#~ msgid "Affects all roles and users"
-#~ msgstr ""
+msgid "Affects all roles and users"
+msgstr "影响所有角色和用户"
 
 #: src/interface/Friends.tsx
 msgid "All"
@@ -454,8 +454,8 @@ msgstr "确定要删除吗？"
 msgid "Are you sure you want to go to "
 msgstr "确定要前往 "
 
-#~ msgid "Are you sure you want to go to <0>{0}</0>?"
-#~ msgstr ""
+msgid "Are you sure you want to go to <0>{0}</0>?"
+msgstr "确定要前往 <0>{0}</0> 吗？"
 
 #: components/modal/modals/PinMessage.tsx
 msgid "Are you sure you want to pin this message?"
@@ -575,8 +575,8 @@ msgid "Browser Echo Cancellation"
 msgstr "浏览器回声消除"
 
 #: components/app/interface/settings/user/voice/VoiceProcessingOptions.tsx
-#~ msgid "Browser Noise Supression"
-#~ msgstr ""
+msgid "Browser Noise Supression"
+msgstr "浏览器降噪"
 
 #: components/app/interface/settings/user/Feedback.tsx
 msgid "Bug Tracker"
@@ -718,8 +718,8 @@ msgid "Change your profile per-server"
 msgstr "为不同服务器设置不同的个人资料"
 
 #: components/modal/modals/Changelog.tsx
-#~ msgid "Changelog"
-#~ msgstr ""
+msgid "Changelog"
+msgstr "更新日志"
 
 #: components/app/interface/settings/channel/Overview.tsx
 msgid "Channel Description"
@@ -979,8 +979,8 @@ msgstr "创建"
 msgid "Create a channel before inviting others!"
 msgstr "请先创建频道，再邀请他人！"
 
-#~ msgid "Create a group"
-#~ msgstr "创建一个群组"
+msgid "Create a group"
+msgstr "创建一个群组"
 
 #: src/interface/Home.tsx
 msgid "Create a group or server"
@@ -1000,8 +1000,8 @@ msgid "Create a new group"
 msgstr "创建新群组"
 
 #: components/app/interface/settings/server/roles/ServerRoleOverview.tsx
-#~ msgid "Create a new role"
-#~ msgstr "创建新角色"
+msgid "Create a new role"
+msgstr "创建新角色"
 
 #: components/modal/modals/CreateWebhook.tsx
 msgid "Create a webhook"
@@ -1132,8 +1132,8 @@ msgstr "默认"
 #: components/app/interface/settings/ChannelSettings.tsx
 #: components/app/interface/settings/server/roles/ServerRoleOverview.tsx
 #: components/app/interface/settings/channel/permissions/ChannelPermissionsOverview.tsx
-#~ msgid "Default Permissions"
-#~ msgstr ""
+msgid "Default Permissions"
+msgstr "默认权限"
 
 #: components/ui/components/design/LoadingScreen.tsx
 msgid "Degraded Performance"
@@ -1268,8 +1268,8 @@ msgstr "不再询问"
 msgid "Don't ask me again for "
 msgstr "不再询问 "
 
-#~ msgid "Don't ask me again for <0>{0}</0>"
-#~ msgstr ""
+msgid "Don't ask me again for <0>{0}</0>"
+msgstr "不再询问 <0>{0}</0>"
 
 #: components/modal/modals/BanMember.tsx
 msgid "Don't delete messages"
@@ -1609,8 +1609,8 @@ msgstr "前往账户设置修改用户名"
 msgid "Go to the Stoat Lounge"
 msgstr "前往 Stoat 休息室"
 
-#~ msgid "Go to the testers server"
-#~ msgstr "前往测试服务器"
+msgid "Go to the testers server"
+msgstr "前往测试服务器"
 
 #: components/modal/modals/Onboarding.tsx
 msgid "Good"
@@ -1708,8 +1708,8 @@ msgid "Illegal hacking or cracking"
 msgstr "非法入侵或破解"
 
 #: components/auth/src/AuthPage.tsx
-#~ msgid "Image by @fakurian"
-#~ msgstr ""
+msgid "Image by @fakurian"
+msgstr "图片来源：@fakurian"
 
 #: components/modal/modals/ReportContent.tsx
 msgid "Impersonation"
@@ -1785,8 +1785,8 @@ msgstr "加入"
 msgid "Join a server"
 msgstr "加入服务器"
 
-#~ msgid "Join call"
-#~ msgstr ""
+msgid "Join call"
+msgstr "加入通话"
 
 #: components/app/interface/settings/user/Feedback.tsx
 #: src/interface/Home.tsx
@@ -2490,8 +2490,8 @@ msgid "Read Message History"
 msgstr "阅读消息历史"
 
 #: components/modal/modals/Changelog.tsx
-#~ msgid "Read More"
-#~ msgstr ""
+msgid "Read More"
+msgstr "阅读更多"
 
 #: components/app/interface/settings/channel/permissions/ChannelPermissionsEditor.tsx
 msgid "Read past messages sent in channel"
@@ -2696,8 +2696,8 @@ msgstr "复仇色情或未成年人色情内容"
 msgid "Review policy changes"
 msgstr "查看政策变更"
 
-#~ msgid "Roadmap"
-#~ msgstr ""
+msgid "Roadmap"
+msgstr "路线图"
 
 #: components/app/interface/settings/server/roles/ServerRoleEditor.tsx
 msgid "Role Colour"
@@ -2782,8 +2782,8 @@ msgstr "搜索群组..."
 msgid "Search for users..."
 msgstr "搜索用户..."
 
-#~ msgid "See what we're currently working on."
-#~ msgstr ""
+msgid "See what we're currently working on."
+msgstr "查看我们目前正在推进的工作。"
 
 #: components/app/interface/settings/user/voice/VoiceInputOptions.tsx
 msgid "Select audio input"
@@ -2993,8 +2993,8 @@ msgstr "你的请求有误：{0}。"
 msgid "Something went wrong! {error}"
 msgstr "出错了！{error}"
 
-#~ msgid "Something went wrong! Try again later."
-#~ msgstr ""
+msgid "Something went wrong! Try again later."
+msgstr "出错了！请稍后重试。"
 
 #: components/app/interface/settings/user/notifications/Sounds.tsx
 msgid "Sounds"
@@ -3036,8 +3036,8 @@ msgstr "开机时自动启动"
 msgid "Status"
 msgstr "状态"
 
-#~ msgid "Stoat Desktop"
-#~ msgstr ""
+msgid "Stoat Desktop"
+msgstr "Stoat 桌面版"
 
 #: components/ui/components/features/profiles/ProfileBadges.tsx
 msgid "Stoat Developer"
@@ -3459,12 +3459,12 @@ msgid "Users will no longer be asked to confirm their age before joining this ch
 msgstr "用户加入此频道前将不再需要确认年龄。<0/>请确保内容适合所有年龄段。"
 
 #: components/app/interface/settings/user/voice/VoiceInputOptions.tsx
-#~ msgid "Using default microphone"
-#~ msgstr ""
+msgid "Using default microphone"
+msgstr "正在使用默认麦克风"
 
 #: components/app/interface/settings/user/voice/VoiceInputOptions.tsx
-#~ msgid "Using default speaker"
-#~ msgstr ""
+msgid "Using default speaker"
+msgstr "正在使用默认扬声器"
 
 #: src/interface/navigation/channels/ServerSidebar.tsx
 msgid "Verified"
@@ -3495,8 +3495,8 @@ msgstr "在此处查看当前活跃的错误报告。"
 msgid "View members"
 msgstr "查看成员"
 
-#~ msgid "View older updates"
-#~ msgstr "查看以前的更新"
+msgid "View older updates"
+msgstr "查看以前的更新"
 
 #: src/interface/channels/ChannelHeader.tsx
 msgid "View pinned messages"
@@ -3564,8 +3564,8 @@ msgstr "Webhook 名称"
 msgid "Webhooks"
 msgstr "Webhook"
 
-#~ msgid "Welcome to"
-#~ msgstr "欢迎使用"
+msgid "Welcome to"
+msgstr "欢迎使用"
 
 #: components/auth/src/flows/FlowLogin.tsx
 msgid "Welcome!"
@@ -3590,8 +3590,8 @@ msgstr "与 {0}"
 
 #. placeholder {0}: names.join(", ")
 #: components/ui/components/features/voice/callCard/VoiceCallCardPreview.tsx
-#~ msgid "With {0}"
-#~ msgstr ""
+msgid "With {0}"
+msgstr "与 {0}"
 
 #. placeholder {0}: names.length
 #: components/ui/components/features/voice/callCard/VoiceCallCardPreview.tsx
@@ -3630,8 +3630,8 @@ msgstr "你已被此服务器封禁。"
 msgid "You can also click the gear icon in the bottom left."
 msgstr "你也可以点击左下角的齿轮图标。"
 
-#~ msgid "You can also right-click the user icon in the top left, or left click it if you're already home."
-#~ msgstr "您也可以右键点击左上角的用户图标，或者在主页时直接左键点击。"
+msgid "You can also right-click the user icon in the top left, or left click it if you're already home."
+msgstr "您也可以右键点击左上角的用户图标，或者在主页时直接左键点击。"
 
 #: components/modal/modals/DeleteChannel.tsx
 msgid "You can re-open it later, but it will disappear on both sides."
