@@ -355,7 +355,7 @@ msgid "Add Bot"
 msgstr "添加机器人"
 
 #: components/app/menus/UserContextMenu.tsx
-msgid "Add friend"
+msgid "Add Friend"
 msgstr "添加好友"
 
 #: components/modal/modals/AddMembersToGroup.tsx
@@ -3784,3 +3784,37 @@ msgstr "你的角色等级过低，无法执行此操作。"
 #: components/i18n/errors.tsx
 msgid "Your user has already been created? Try logging in again or refreshing the app."
 msgstr "你的用户可能已创建？请尝试重新登录或刷新应用。"
+
+
+msgid "will not be able to interact with the server until the timeout expires."
+msgstr "在超时时间结束之前，将无法与服务器进行交互。"
+
+msgid "Timeout Member"
+msgstr "禁止互动"
+
+msgid "Timeout"
+msgstr "退出"
+
+msgid "1 min"
+msgstr "1分钟"
+
+msgid "5 min"
+msgstr "5分钟"
+
+msgid "10 min"
+msgstr "10分钟"
+
+msgid "1 hr"
+msgstr "1小时"
+
+msgid "1 day"
+msgstr "1天"
+
+msgid "1 wk"
+msgstr "1周"
+
+msgid "{0} members online"
+msgstr "{0} 名成员在线"
+
+msgid "Edit channel"
+msgstr "编辑频道"
